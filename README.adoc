@@ -2,4 +2,4 @@
 :author: Pedro Lamarão <pedro.unglue658@passinbox.com>
 :icons: font
 
-Estudo sobre integração de código _assembler_ em um programa Go.
+Estudo sobre integração de código _assembler_ em programas Go.

@@ -1,3 +1,3 @@
-module pedrolamarao.dev.br/study/asm
+module pedrolamarao.dev.br/study
 
 go 1.25
